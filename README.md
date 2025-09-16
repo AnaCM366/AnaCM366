@@ -1,7 +1,12 @@
 ## Olá! Eu sou a Ana 👋😄
 
-- 💬 Estou atualmente fazendo o curso Técnico em Informática 100% Presencial na Escola Senac.
-Previsão de conclusão: Março de 2027
+- 💬 Sou aluna do curso Técnico em Informática na escola Senac
+
+<div>
+  <a href="https://beacons.ai/AnaCM366">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AnaCM366&show_icons-true&theme=onedark&include_all_commits-true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCM366&layout-compact&langs_count-16&theme-onedark"/>
+</div>
   
 **Formação Acadêmica**
 - **Excel Avançado**
@@ -14,7 +19,7 @@ Previsão de conclusão: Março de 2027
 - ⚡ Conhecimento em logística;
 - ⚡ Noções de programação, redes e análise de sistemas.
   
---> Disponível para novos desafios profissionais e pronto para contribuir com o crescimento da equipe <--
+--> Disponível para novos desafios profissionais e pronta para contribuir com o crescimento da equipe <--
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
