@@ -9,9 +9,14 @@
 </div>
   
 **Formação Acadêmica**
+
+- **Técnico em Informática**
+  - Senac 1200h, 100% Presencial
+  - Previsão Conclusão: Março 2027
+
 - **Excel Avançado**
-- Senac 84h, 100% Presencial
-- Concluído em Março 2025
+  - Senac 84h, 100% Presencial
+  - Concluído em Março 2025
  
 **Competências**
 - ⚡ Comunicação e resolução de problemas;
@@ -26,4 +31,10 @@
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/ana-carolina-machado-644b16262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
